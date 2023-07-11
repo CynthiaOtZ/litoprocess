@@ -59,9 +59,9 @@
         "catalogosImg-2": "img/catalogos/img_catalogo_pop.png",
         "catalogosTxt-2": "img/catalogos/catalogo_materiales_pop.png",
 
-        "clientesBanner": "img/banner/clientes-07.png",
+        "clientesBanner": "img/banner/clientes-07_render.png",
 
-        "infografia-1": "img/banner/infografia2.png",
+        "infografia-1": "img/banner/infografia2_render.png",
         "infografia-2": "img/banner/infografia_portrait.png",
         "textiles": "img/banner/banner_textiles_contenido.png",
 
@@ -108,7 +108,7 @@
         "carrusel-mobile-5": "img/banner-lito-en/mobile-en/banners_2_EN-04.jpg",
         "carrusel-mobile-6": "img/banner-lito-en/mobile-en/banners_2_EN-06.jpg",
 
-        "nosotrosImg": "img/banner-en/about_us.png",
+        "nosotrosImg": "img/banner-en/about_us_render.png",
         "nosotrosTxt": " Litoprocess is a company with more than 65 years of experience in printing and solutions for your business, founded in 1957 as a silk screen printing workshop has dedicated its trajectory to becoming the best printing company in Mexico, has diversified its range of products and services to be always at the forefront and aware of the needs of each of its clients.",
 
         "productosImg": "img/titles-en/products.png",
@@ -146,10 +146,10 @@
         "catalogosImg-2": "img/catalogos/img_catalogo_pop.png",
         "catalogosTxt-2": "img/catalogos-en/Signage_and_Display_ Catalogue.png",
 
-        "clientesBanner": "img/banner-en/clients.png",
+        "clientesBanner": "img/banner-en/clients_render.png",
 
         "infografia-1": "img/banner-en/infografia2.jpg",
-        "infografia-2": "img/banner-en/infografia_portrait.png",
+        "infografia-2": "img/banner-en/infografia_portrait_render.png",
         "textiles": "img/banner/banner_textiles_contenido.png",
 
         "contactoFooter": "img/titles-en/contact.png",
